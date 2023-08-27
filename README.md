@@ -10,7 +10,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
 - **Databases:** MongoDB
   
 ## 🚀 Projects
-- **VeriCreds**: A Web3 PoC project for decentralized document sharing. Contributed as a full-stack developer. [Frontend]([link-to-frontend](https://github.com/VeriCreds/vericreds-webapp)) | [Backend]([link-to-backend](https://github.com/VeriCreds/vericreds-backend))
+- **VeriCreds**: A Web3 PoC project for decentralized document sharing. Contributed as a full-stack developer. [Frontend]([[link-to-frontend](https://github.com/VeriCreds/vericreds-webapp)]) | [Backend]([link-to-backend](https://github.com/VeriCreds/vericreds-backend))
 - **Machine Learning Project on COVID patterns**: Developed an ML framework for predicting COVID patterns using PyTorch. Achieved significant prediction accuracy. [View on GitHub]([Project-Link](https://github.com/shlomomdahan/machine-learning))
 
 ## 🎓 Education
