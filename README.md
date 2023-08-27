@@ -25,8 +25,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
 
 ## 🧠 A Bit More About Me
 - Past life in finance, handling UHNW client portfolios at **J.P. Morgan Chase & Co.**
-- Launched **Fragrance Key**, a venture offering brand-name perfume alternatives, managing business operations and SEO strategies to hit $15,000 in sales over 3 months.
-
+- Outside of the tech world, I'm an avid triathlete, currently training for an Ironman. This journey has instilled in me discipline, perseverance, and the drive to always push boundaries.
 ---
 
 
