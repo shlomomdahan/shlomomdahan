@@ -8,8 +8,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
 - **Languages:** Python, Java, C, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React.js, Next.js, Flask with Blueprints, TensorFlow, PyTorch
 - **Databases:** MongoDB
-- **Spoken Languages:** Spanish (Fluent), French
-
+- 
 ## 🚀 Projects
 - **VeriCreds**: A Web3 PoC project for decentralized document sharing. Contributed as a full-stack developer. [Frontend]([link-to-frontend](https://github.com/VeriCreds/vericreds-webapp)) | [Backend]([link-to-backend](https://github.com/VeriCreds/vericreds-backend))
 - 
