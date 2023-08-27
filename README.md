@@ -30,8 +30,6 @@ Transitioning from a career in finance to software engineering, I blend my analy
 
 ---
 
-[![Shlomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan)](https://github.com/shlomomdahan/github-readme-stats)
-
 
 
 
