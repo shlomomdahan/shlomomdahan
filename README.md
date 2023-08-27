@@ -2,7 +2,7 @@
 
 ![Banner Image](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 
-Transitioning from a career in finance to software engineering, I blend my analytical background with my passion for tech, nurtured at the University of Pennsylvania. I'm particularly drawn to the energetic vibes of startup cultures and love connecting with people globally, thanks to my proficiency in Spanish and French.
+Transitioning from a career in finance to software engineering, I blend my analytical background with my passion for tech, nurtured at the University of Pennsylvania. I'm particularly drawn to the startup cultures and love connecting with people globally, thanks to my proficiency in Spanish and French.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, Java, C, JavaScript, HTML, CSS
