@@ -31,6 +31,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
 
 ## 🌐 Connect with Me
 📧 Email: shlomomdahan@gmail.com
+
 <a href="https://linkedin.com/in/shlomomoshedahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlomomoshedahan" height="30" width="40" /></a>
 
 
