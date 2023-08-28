@@ -32,14 +32,6 @@ Transitioning from a career in finance to software engineering, I blend my analy
 - **Languages:** Python, Java, C, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React.js, Next.js, Flask with Blueprints, TensorFlow, PyTorch
 - **Databases:** MongoDB
-  
-## 🚀 Projects
-- **VeriCreds**: A Web3 PoC project for decentralized document sharing. Contributed as a full-stack developer. [Frontend](https://github.com/VeriCreds/vericreds-webapp) | [Backend](https://github.com/VeriCreds/vericreds-backend)
-- **Machine Learning Project on COVID patterns**: Developed an ML framework for predicting COVID patterns using PyTorch. Achieved significant prediction accuracy. [View on GitHub](https://github.com/shlomomdahan/machine-learning)
-
-## 🎓 Education
-- **University of Pennsylvania**: Master’s of Computer and Information Technology (MCIT) – GPA: 3.8/4.0
-- **University of Miami**: Bachelor of Business Administration in Finance – GPA: 3.6/4.0
 
 ## 🌐 Connect with Me
 - [LinkedIn](http://linkedin.com/in/shlomomoshedahan/)
