@@ -1,4 +1,8 @@
 # 👋 Hey there! I'm Shlomo Dahan.
+<!-- my-ticker -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shlomo+Dahan;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+
+
 
 ![Banner Image](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 
@@ -21,9 +25,6 @@ Transitioning from a career in finance to software engineering, I blend my analy
 <!-- my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
-
-<!-- my-ticker -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shlomo+Mdahan;+Welcome+to+My+Profile!;Blending+finance+and+tech;Nurtured+at+the+University+of+Pennsylvania;Proficient+in+Spanish+and+French;Connect+with+me+globally)](https://git.io/typing-svg)
 
 
 
