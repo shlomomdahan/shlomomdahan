@@ -1,4 +1,4 @@
-![Header](./image.png)
+![Header](./github-header-image.png)
 
 [![Linkedin Badge](https://img.shields.io/badge/-shlomomdahan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomomoshedahan/)](https://www.linkedin.com/in/shlomomoshedahan/)
 [![GitHub followers](https://img.shields.io/github/followers/shlomomdahan?label=Follow&style=social)](https://github.com/shlomomdahan/?tab=follow) 
