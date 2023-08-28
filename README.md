@@ -8,14 +8,13 @@
 
 Transitioning from a career in finance to software engineering, I blend my analytical background with my passion for tech, nurtured at the University of Pennsylvania. I'm particularly drawn to the startup cultures and love connecting with people globally, thanks to my proficiency in Spanish and French.
 
-### Languages
-
+- **Languages**
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
-### Frameworks & Libraries:
+- **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
@@ -24,7 +23,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
 
 
-### Databases:
+- **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
 
