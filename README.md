@@ -38,8 +38,8 @@ With a background in finance and a passion for technology, I've transitioned fro
 
 ## 🌱 **Check Out My Recent Projects Below** 👇
 
-### 📝 **VeriCreds: A Web3 PoC Project** _(Summer 2023)_
-An MVP demonstrating decentralized document sharing via blockchain. Worked as a full-stack developer. 
+- 📝 **VeriCreds: A Web3 PoC Project** _(Summer 2023)_
+-- An MVP demonstrating decentralized document sharing via blockchain. Worked as a full-stack developer. 
 - **Frontend**: [VeriCreds WebApp](https://github.com/shlomomdahan/vericreds-frontend)
 - **Backend**: [VeriCreds Backend](https://github.com/shlomomdahan/vericreds-backend)
 
