@@ -17,11 +17,31 @@ Transitioning from a career in finance to software engineering, I blend my analy
 - **Frameworks & Libraries:** React.js, Next.js, Flask with Blueprints, TensorFlow, PyTorch
 - **Databases:** MongoDB
 
+## 🛠️ Technologies & Tools
 
-## 🧠 
+### Languages:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+
+### Frameworks & Libraries:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+
+
+
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> A Bit More About Me &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - Past life in finance, handling UHNW client portfolios at **J.P. Morgan Chase & Co.**
-- Outside of the tech world, I'm an avid triathlete, currently training for an Ironman. This journey has instilled in me discipline, perseverance, and the drive to always push boundaries.
+- Outside of the tech world, I'm an avid triathlete, currently training for an Ironman. 
 ---
 
 | .                                                                                                                                       | .                                                                                                                         |
