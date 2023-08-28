@@ -21,12 +21,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
     <a href="https://github.com/shlomomdahan/shlomomdahan/network/members"><img src="https://img.shields.io/github/forks/shlomomdahan/shlomomdahan.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=shlomomdahan.shlomomdahan" alt="visitors"/>
 </p>
-
-
-
-<!-- my-header-img -->
-![](./src/header_.png)
-
+-->
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
