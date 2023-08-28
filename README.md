@@ -43,8 +43,6 @@ An MVP demonstrating decentralized document sharing via blockchain. Worked as a 
 - **Frontend**: [VeriCreds WebApp](https://github.com/shlomomdahan/vericreds-frontend)
 - **Backend**: [VeriCreds Backend](https://github.com/shlomomdahan/vericreds-backend)
 
-### 🌍 **Philly Geographical Data Analysis (CIT 594)** _(Summer 2023)_
-Geographical analysis of Philadelphia using public datasets, with a focus on efficient data structures and algorithms. Role: Java developer.
 ### 🦠 **Analyzing COVID Patterns with Machine Learning** _(Fall 2022)_
 Developed a framework for predicting COVID patterns using machine learning libraries like PyTorch. Worked on dataset creation, deep learning, and real-time training monitoring. [Project Link](https://github.com/shlomomdahan/machine-learning)
 
