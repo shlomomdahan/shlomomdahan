@@ -4,6 +4,28 @@
 
 Transitioning from a career in finance to software engineering, I blend my analytical background with my passion for tech, nurtured at the University of Pennsylvania. I'm particularly drawn to the startup cultures and love connecting with people globally, thanks to my proficiency in Spanish and French.
 
+
+
+![](assets/Bottom_up.svg)
+
+<!-- my-icons -->
+<p align="center">
+    <a href="https://github.com/shlomomdahan"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/shlomomdahan/shlomomdahan/graphs/contributors"><img src="https://img.shields.io/github/contributors/shlomomdahan/shlomomdahan?color=blue"></a>
+    <a href="https://github.com/shlomomdahan/shlomomdahan/stargazers"><img src="https://img.shields.io/github/stars/shlomomdahan/shlomomdahan.svg?logo=github"></a>
+    <a href="https://github.com/shlomomdahan/shlomomdahan/network/members"><img src="https://img.shields.io/github/forks/shlomomdahan/shlomomdahan.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=shlomomdahan.shlomomdahan" alt="visitors"/>
+</p>
+
+<!-- my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<!-- my-ticker -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shlomo+Mdahan;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
+
 ## 🛠️ Technologies & Tools
 - **Languages:** Python, Java, C, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React.js, Next.js, Flask with Blueprints, TensorFlow, PyTorch
