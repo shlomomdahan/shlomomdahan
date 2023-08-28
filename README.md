@@ -28,10 +28,6 @@ Transitioning from a career in finance to software engineering, I blend my analy
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-![Shlomo's github activity graph](https://raw.githubusercontent.com/shlomomdahan/shlomomdahan/output/github-contribution-grid-snake.svg)
-
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Shlomo's github stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan&show_icons=true&theme=radical&include_all_commits=true) | ![Shlomo's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shlomomdahan&theme=radical&layout=compact) |
