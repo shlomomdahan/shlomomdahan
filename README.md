@@ -11,12 +11,6 @@
 
 Transitioning from a career in finance to software engineering, I blend my analytical background with my passion for tech, nurtured at the University of Pennsylvania. I'm particularly drawn to the startup cultures and love connecting with people globally, thanks to my proficiency in Spanish and French.
 
-
-## 🛠️ Technologies & Tools
-- **Languages:** Python, Java, C, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React.js, Next.js, Flask with Blueprints, TensorFlow, PyTorch
-- **Databases:** MongoDB
-
 ## 🛠️ Technologies & Tools
 
 ### Languages:
