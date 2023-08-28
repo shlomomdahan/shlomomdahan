@@ -3,7 +3,7 @@
 
 ![Banner Image](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shlomo Dahan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomomoshedahan/)](https://www.linkedin.com/in/shlomomoshedahan/) 
+[![Linkedin Badge](https://img.shields.io/badge/-shlomomdahan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomomoshedahan/)](https://www.linkedin.com/in/shlomomoshedahan/) 
 [![GitHub followers](https://img.shields.io/github/followers/shlomomdahan?label=Follow&style=social)](https://github.com/shlomomdahan/?tab=follow) 
 [![Gmail Badge](https://img.shields.io/badge/-shlomomdahan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shlomomdahan@gmail.com)](mailto:shlomomdahan@gmail.com)
 ---
