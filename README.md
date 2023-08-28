@@ -74,9 +74,10 @@ With a background in finance and a passion for technology, I've transitioned fro
 
 ---
 
-![Shlomo's github stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan&show_icons=true&theme=radical&include_all_commits=true)   
-![Shlomo's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shlomomdahan&theme=radical&layout=compact)
+🌱 **Check Out My Recent Projects Below** 👇
 
 ---
 
-🌱 **Check Out My Recent Projects Below** 👇
+![Shlomo's github stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan&show_icons=true&theme=radical&include_all_commits=true) ![Shlomo's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shlomomdahan&theme=radical&layout=compact)
+
+
