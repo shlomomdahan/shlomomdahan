@@ -41,6 +41,7 @@ With a background in finance and a passion for technology, I've transitioned fro
 - 🏄‍♂️ **Adventurer**: I love scuba diving, surfing, and playing the guitar.
 - 🌎 **Polyglot**: Fluent in Spanish and French, always up for a chat in any of these!
 
+<!-- 
 ---
 
 ![Shlomo's github stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan&show_icons=true&theme=radical&include_all_commits=true) ![Shlomo's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shlomomdahan&theme=radical&layout=compact)
