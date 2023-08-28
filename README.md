@@ -1,5 +1,4 @@
-<!-- my-ticker -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Shlomo+Dahan;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+# Shlomo Dahan 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-shlomomdahan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomomoshedahan/)](https://www.linkedin.com/in/shlomomoshedahan/) 
 [![GitHub followers](https://img.shields.io/github/followers/shlomomdahan?label=Follow&style=social)](https://github.com/shlomomdahan/?tab=follow) 
