@@ -25,7 +25,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
 
 
 ### Databases:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
 
 
