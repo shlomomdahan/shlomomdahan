@@ -28,10 +28,10 @@ With a background in finance and a passion for technology, I've transitioned fro
 
 ## 📚 **Recent Projects**
 
-- 📝 **VeriCreds: A Web3 PoC Project** _(Summer 2023)_
+- 📝 **VeriCreds: A Web3 PoC Project** 
 -- An MVP demonstrating decentralized document sharing via blockchain. [VeriCreds WebApp](https://github.com/shlomomdahan/vericreds-frontend) | [VeriCreds Backend](https://github.com/shlomomdahan/vericreds-backend)
 
-- 🦠 **Analyzing COVID Patterns with Machine Learning** _(Fall 2022)_
+- 🦠 **Analyzing COVID Patterns with Machine Learning** 
  -- Developed a framework for predicting COVID patterns using machine learning libraries like PyTorch. [Project Link](https://github.com/shlomomdahan/machine-learning)
 
 ## 🌍 A Bit More About Me:
