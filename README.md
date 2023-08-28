@@ -35,7 +35,7 @@ With a background in finance and a passion for technology, I've transitioned fro
 - 🌎 **Polyglot**: Fluent in Spanish and French, always up for a chat in any of these!
 
 
-🌱 **Check Out My Recent Projects Below** 👇
+## 🌱 **Check Out My Recent Projects Below** 👇
 
 ---
 
