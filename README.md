@@ -26,7 +26,7 @@ With a background in finance and a passion for technology, I've transitioned fro
 - **Databases**: 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
-## 🌱 **Check Out My Recent Projects Below** 👇
+## 📚 **Recent Projects**
 
 - 📝 **VeriCreds: A Web3 PoC Project** _(Summer 2023)_
 -- An MVP demonstrating decentralized document sharing via blockchain. [VeriCreds WebApp](https://github.com/shlomomdahan/vericreds-frontend) | [VeriCreds Backend](https://github.com/shlomomdahan/vericreds-backend)
