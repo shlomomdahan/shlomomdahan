@@ -26,16 +26,6 @@ With a background in finance and a passion for technology, I've transitioned fro
 - **Databases**: 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
-
-## 🌍 A Bit More About Me:
-
-- 📈 **Past Life**: Managed UHNW client portfolios at **J.P. Morgan Chase & Co.**
-- 🚴‍♂️ **Triathlete**: Currently training for an Ironman.
-- 🏄‍♂️ **Adventurer**: I love scuba diving, surfing, and playing the guitar.
-- 🌎 **Polyglot**: Fluent in Spanish and French, always up for a chat in any of these!
-
-
-
 ## 🌱 **Check Out My Recent Projects Below** 👇
 
 - 📝 **VeriCreds: A Web3 PoC Project** _(Summer 2023)_
@@ -43,6 +33,13 @@ With a background in finance and a passion for technology, I've transitioned fro
 
 - 🦠 **Analyzing COVID Patterns with Machine Learning** _(Fall 2022)_
  -- Developed a framework for predicting COVID patterns using machine learning libraries like PyTorch. [Project Link](https://github.com/shlomomdahan/machine-learning)
+
+## 🌍 A Bit More About Me:
+
+- 📈 **Past Life**: Managed UHNW client portfolios at **J.P. Morgan Chase & Co.**
+- 🚴‍♂️ **Triathlete**: Currently training for an Ironman.
+- 🏄‍♂️ **Adventurer**: I love scuba diving, surfing, and playing the guitar.
+- 🌎 **Polyglot**: Fluent in Spanish and French, always up for a chat in any of these!
 
 ---
 
