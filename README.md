@@ -30,10 +30,9 @@ Transitioning from a career in finance to software engineering, I blend my analy
 - **Databases:** MongoDB
 
 ## 🌐 Connect with Me
-- [LinkedIn](http://linkedin.com/in/shlomomoshedahan/)
 <a href="https://linkedin.com/in/shlomomoshedahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shlomomoshedahan" height="30" width="40" /></a>
 - 📧 Email: shlomomdahan@gmail.com
-- 📞 Phone: 305-494-1570
+
 
 ## 🧠 A Bit More About Me
 - Past life in finance, handling UHNW client portfolios at **J.P. Morgan Chase & Co.**
