@@ -29,7 +29,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> A Bit More About Me &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### A Bit More About Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 - Past life in finance, handling UHNW client portfolios at **J.P. Morgan Chase & Co.**
 - Outside of the tech world, I'm an avid triathlete, currently training for an Ironman. 
 ---
