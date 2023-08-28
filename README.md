@@ -8,22 +8,21 @@
 
 Transitioning from a career in finance to software engineering, I blend my analytical background with my passion for tech, nurtured at the University of Pennsylvania. I'm particularly drawn to the startup cultures and love connecting with people globally, thanks to my proficiency in Spanish and French.
 
-## 🛠️ Technologies & Tools
+### Languages
 
-### Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
 ### Frameworks & Libraries:
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
+
 
 ### Databases:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
