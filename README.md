@@ -34,9 +34,7 @@ Transitioning from a career in finance to software engineering, I blend my analy
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Shlomo's github stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan&show_icons=true&theme=radical&include_all_commits=true)
- | ![Shlomo's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shlomomdahan&theme=radical&layout=compact)
- |
+| ![Shlomo's github stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan&show_icons=true&theme=radical&include_all_commits=true) | ![Shlomo's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shlomomdahan&theme=radical&layout=compact) |
 
 
 ## 🛠️ Technologies & Tools
