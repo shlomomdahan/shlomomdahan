@@ -43,35 +43,40 @@ Transitioning from a career in finance to software engineering, I blend my analy
 [![Gmail Badge](https://img.shields.io/badge/-shlomomdahan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shlomomdahan@gmail.com)](mailto:shlomomdahan@gmail.com)
 ---
 
-From crunching numbers in finance to crafting code in tech, I've always been driven by solving problems and creating value. Graduated from the University of Pennsylvania, I now harness my analytical skills in software engineering, especially in the dynamic environment of startups. 
+With a background in finance and a passion for technology, I've transitioned from crunching numbers to crafting code. My drive? Solving problems and creating value. As I currently pursue my Master's in CS from the University of Pennsylvania, I've channeled my analytical skills towards software engineering, with a keen interest in the vibrant world of startups.
 
-### 🛠 Languages & Tools:
+## 🛠 Languages & Tools:
 
-- **Languages** : 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+- **Languages**: 
+  - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  - ![C](https://img.shields.io/badge/-C-000?&logo=C)
+  - ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
-- **Frameworks & Libraries** : 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
+- **Frameworks & Libraries**: 
+  - ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  - ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+  - ![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
+  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+  - ![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
+
+- **Databases**: 
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
 
-- **Databases** : 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+## 🌍 A Bit More About Me:
 
-### 🌍 A Bit More About Me:
-- **Past Life**: Managed UHNW client portfolios at **J.P. Morgan Chase & Co.** 🏦
-- **Triathlete**: Currently training for an Ironman. 🚴‍♂️🏊‍♂️🏃‍♂️
-- **Adventurer**: Dive deep with scuba, ride waves with surfing, and strum strings with my guitar. 🏄‍♂️🎸
-- **Fun Fact**: Fluent in Spanish and French, always up for a chat in any of these! 🗣
+- 📈 **Past Life**: Managed UHNW client portfolios at **J.P. Morgan Chase & Co.**
+- 🚴‍♂️ **Triathlete**: Currently training for an Ironman.
+- 🏄‍♂️ **Adventurer**: Dive deep with scuba, ride waves with surfing, and strum strings with my guitar.
+- 🌎 **Polyglot**: Fluent in Spanish and French, always up for a chat in any of these!
 
 ---
 
 ![Shlomo's github stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan&show_icons=true&theme=radical&include_all_commits=true)   
 ![Shlomo's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shlomomdahan&theme=radical&layout=compact)
+
+---
+
+🌱 **Check Out My Recent Projects Below** 👇
