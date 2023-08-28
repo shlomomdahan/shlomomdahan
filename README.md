@@ -49,7 +49,7 @@ An MVP demonstrating decentralized document sharing via blockchain. Worked as a 
 Geographical analysis of Philadelphia using public datasets, with a focus on efficient data structures and algorithms. Role: Java developer. [More details](#).
 
 ### 🦠 **Analyzing COVID Patterns with Machine Learning** _(Fall 2022)_
-Developed a framework for predicting COVID patterns using machine learning libraries like PyTorch. Worked on dataset creation, deep learning, and real-time training monitoring. [Project Link](https://github.com/shlomomdahan/machine-learning).
+Developed a framework for predicting COVID patterns using machine learning libraries like PyTorch. Worked on dataset creation, deep learning, and real-time training monitoring. [Project Link](https://github.com/shlomomdahan/machine-learning)
 
 
 
