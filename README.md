@@ -38,6 +38,22 @@ With a background in finance and a passion for technology, I've transitioned fro
 
 ## 🌱 **Check Out My Recent Projects Below** 👇
 
+## 📚 Recent Projects
+
+### 📝 **VeriCreds: A Web3 PoC Project** _(Summer 2023)_
+An MVP demonstrating decentralized document sharing via blockchain. Worked as a full-stack developer. 
+- **Frontend**: [VeriCreds WebApp](https://github.com/shlomomdahan/vericreds-frontend)
+- **Backend**: [VeriCreds Backend](https://github.com/shlomomdahan/vericreds-backend)
+
+### 🌍 **Philly Geographical Data Analysis (CIT 594)** _(Summer 2023)_
+Geographical analysis of Philadelphia using public datasets, with a focus on efficient data structures and algorithms. Role: Java developer. [More details](#).
+
+### 🦠 **Analyzing COVID Patterns with Machine Learning** _(Fall 2022)_
+Developed a framework for predicting COVID patterns using machine learning libraries like PyTorch. Worked on dataset creation, deep learning, and real-time training monitoring. [Project Link](https://github.com/shlomomdahan/machine-learning).
+
+
+
+
 ---
 
 ![Shlomo's github stats](https://github-readme-stats.vercel.app/api?username=shlomomdahan&show_icons=true&theme=radical&include_all_commits=true) ![Shlomo's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shlomomdahan&theme=radical&layout=compact)
