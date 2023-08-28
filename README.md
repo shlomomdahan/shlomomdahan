@@ -10,21 +10,21 @@ With a background in finance and a passion for technology, I've transitioned fro
 ## 🛠 Languages & Tools:
 
 - **Languages**: 
-  - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  - ![C](https://img.shields.io/badge/-C-000?&logo=C)
-  - ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
 - **Frameworks & Libraries**: 
-  - ![React](https://img.shields.io/badge/-React-000?&logo=React)
-  - ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-  - ![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
-  - ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-  - ![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
 
 - **Databases**: 
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
 
 ## 🌍 A Bit More About Me:
