@@ -1,6 +1,6 @@
 # Hey, I'm Shlomo Dahan! 👋🏼👨‍💻
 
-![Header](./[https://github.com/shlomomdahan/shlomomdahan/blob/main/image.png])
+![Header](./[https://raw.githubusercontent.com/shlomomdahan/shlomomdahan/blob/main/image.png])
 
 [![Linkedin Badge](https://img.shields.io/badge/-shlomomdahan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomomoshedahan/)](https://www.linkedin.com/in/shlomomoshedahan/)
 [![GitHub followers](https://img.shields.io/github/followers/shlomomdahan?label=Follow&style=social)](https://github.com/shlomomdahan/?tab=follow) 
