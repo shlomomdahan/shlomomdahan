@@ -38,7 +38,7 @@ With a background in finance and a passion for technology, I've transitioned fro
 
 - 📈 **Past Life**: Managed UHNW client portfolios at **J.P. Morgan**
 - 🚴‍♂️ **Triathlete**: Currently training for an Ironman
-- :zap: **Fun fact**: Fluent in Spanish and French
+- :rocket: **Fun fact**: Fluent in Spanish and French
 
 <!-- 
 ---
