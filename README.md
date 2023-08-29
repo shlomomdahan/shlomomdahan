@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-shlomomdahan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shlomomdahan@gmail.com)](mailto:shlomomdahan@gmail.com)
 ---
 
-With a background in finance and a passion for technology, I've transitioned from crunching numbers to crafting code. My drive? Solving problems and creating value. As I currently pursue my Master's in CS from the University of Pennsylvania, I've channeled my analytical skills towards software engineering, with a particular interest in the world of startups.
-
+<!--With a background in finance and a passion for technology, I've transitioned from crunching numbers to crafting code. My drive? Solving problems and creating value. As I currently pursue my Master's in CS from the University of Pennsylvania, I've channeled my analytical skills towards software engineering, with a particular interest in the world of startups.
+-->
 ## 🛠 Languages & Tools:
 
 - **Languages**: 
