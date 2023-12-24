@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++]([https://img.shields.io/badge/-C-000?&logo=C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c++))
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 
 - **Frameworks & Libraries**: 
