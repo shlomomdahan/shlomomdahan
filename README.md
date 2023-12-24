@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<!--![Header](./github-header-image.png)-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-shlomomdahan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shlomomoshedahan/)](https://www.linkedin.com/in/shlomomoshedahan/)
 [![GitHub followers](https://img.shields.io/github/followers/shlomomdahan?label=Follow&style=social)](https://github.com/shlomomdahan/?tab=follow) 
@@ -26,7 +26,7 @@
 - **Databases**: 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
 
-## 📚 **Recent Projects**
+<!-- ## 📚 **Recent Projects**
 
 - 📝 **VeriCreds: A Web3 PoC Project** 
 -- An MVP demonstrating decentralized document sharing via blockchain. [VeriCreds WebApp](https://github.com/shlomomdahan/vericreds-frontend) | [VeriCreds Backend](https://github.com/shlomomdahan/vericreds-backend)
