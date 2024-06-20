@@ -22,29 +22,6 @@ I'm a passionate software engineer with a background in finance. Currently, I'm 
 
 ---
 
-## 🛠 Languages & Tools
-
-**Languages**:
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-
-**Frameworks & Libraries**:
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
-
-**Databases**:
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -65,3 +42,26 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/shlomomoshedah
 <p align="center">
     <img src="https://img.shields.io/badge/💻-Keep%20Coding-blue" alt="Keep Coding">
 </p>
+
+<!--
+
+## 🛠 Languages & Tools
+
+**Languages**:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
+**Frameworks & Libraries**:
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![Flask](https://img.shields.io/badge/-Flask-000?logo=Flask)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?logo=PyTorch)
+
+**Databases**:
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
