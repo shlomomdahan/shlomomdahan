@@ -1,6 +1,6 @@
 <!--![Header](./github-header-image.png)-->
 
-<h1 align="center">Hi, I'm Shlomo! 👋</h1>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/shlomomoshedahan/">
@@ -16,12 +16,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a passionate software engineer with a background in finance. Currently, I'm pursuing my Master's in Computer Science at the University of Pennsylvania. I'm also a Jenkins contributor for GSoC 2024.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -31,17 +25,6 @@ I'm a passionate software engineer with a background in finance. Currently, I'm 
 <!--     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shlomomdahan&theme=radical" alt="GitHub Contributions"> -->
 </p>
 
----
-
-## 📫 Get in Touch
-
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/shlomomoshedahan/) or [Email](mailto:shlomomdahan@gmail.com).
-
----
-
-<p align="center">
-    <img src="https://img.shields.io/badge/💻-Keep%20Coding-blue" alt="Keep Coding">
-</p>
 
 <!--
 
